@@ -1,4 +1,4 @@
-# js-ajax-excercise
+# JavaScript Ajax Excercise
 
 - Script needs to calculate arbitrage opportunity between two bitcoin exchanges
 
@@ -21,3 +21,9 @@ Source: http://lexicon.ft.com/Term?term=exchange-arbitrage
 - when you have the data, display Buy and Sell price from both exchanges
 - as the last step, display where it is worth to buy and where to sell BTC
 - Example interface: https://docs.google.com/spreadsheets/d/176E423tTNTje7oIZP8Ekwq1AQAwr5hYQECDxdZ78qSw/edit?usp=sharing 
+
+## Technical options
+
+- Level easy: jQuery
+- Level medium: ES6
+- Level hard: VanilaJS
