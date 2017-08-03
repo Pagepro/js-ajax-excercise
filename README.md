@@ -13,7 +13,7 @@ Source: http://lexicon.ft.com/Term?term=exchange-arbitrage
 - Fetch BTC Buy and Sell prices from BitMarket exchange: https://www.bitmarket.pl/market.php?market=BTCPLN 
 - Check if it is worth to buy BTC on one exchange and sell on another.
 - Check where we should to buy and where to sell.
-- If you are buying BTC - you need to check `ask` price, when you are selling `bid` price.
+- If you are buying BTC - you need to check `ASK` price, when you are selling `BID` price.
 
 ## Layout:
 
